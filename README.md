@@ -6,11 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning to code 
-- ⚡ Fun fact:  I plan to join a startup and build stuff from scratch and scale it so that maximum people benefit from it and create a global impact
-- How am I going to approach it ?
-- Step 1: Enter the market first and work for 3 years in the "niche" (yet to be decided)
-- The entire coding journey from scratch is going to well documented , i repeat it will be very well documented
 - Entering the market requires :
 - Accountability
 - Motivation
